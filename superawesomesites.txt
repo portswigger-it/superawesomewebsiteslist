@@ -8,7 +8,7 @@ entropy.ubuntu.com
 esm.ubuntu.com
 eu-west-2.ec2.archive.ubuntu.com
 github.com/ansible-lockdown/*
-github.com/cilium/tetragon/releases/download/*
+github.com/cilium/tetragon/
 github.com/goss-org/goss/releases/download/*
 jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
 livepatch.canonical.com
@@ -25,3 +25,4 @@ packages.microsoft.com
 download.jetbrains.com
 download-cdn.jetbrains.com
 cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.amazonaws.com
+objects.githubusercontent.com/*
