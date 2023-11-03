@@ -1,10 +1,12 @@
-*.portswigger.net/*
-portswigger.net/*
-plugins.jetbrains.com/*
-https://github.com/ansible-lockdown/*
-http://jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
-https://dl.google.com/*
-https://github.com/cilium/tetragon/releases/download/*
-https://code.visualstudio.com/*
-https://github.com/goss-org/goss/releases/download/*
 
+*.portswigger.net/*
+http://jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
+https://code.visualstudio.com/*
+https://dl.google.com/*
+https://github.com/ansible-lockdown/*
+https://github.com/cilium/tetragon/releases/download/*
+https://github.com/goss-org/goss/releases/download/*
+https://polling.oastify.com/*
+https://ssm.eu-west-1.amazonaws.com/*
+plugins.jetbrains.com/*
+portswigger.net/*
