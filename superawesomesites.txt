@@ -1,13 +1,13 @@
 
 *.portswigger.net/*
-http://jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
-https://code.visualstudio.com/*
-https://dl.google.com/*
-https://github.com/ansible-lockdown/*
-https://github.com/cilium/tetragon/releases/download/*
-https://github.com/goss-org/goss/releases/download/*
-https://polling.oastify.com/*
-https://ssm.eu-west-1.amazonaws.com
+jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
+code.visualstudio.com/*
+dl.google.com/*
+github.com/ansible-lockdown/*
+github.com/cilium/tetragon/releases/download/*
+github.com/goss-org/goss/releases/download/*
+polling.oastify.com/*
+ssm.eu-west-1.amazonaws.com
 plugins.jetbrains.com
 portswigger.net
 esm.ubuntu.com
@@ -17,3 +17,4 @@ ec2-instance-connect.eu-west-2.amazonaws.com
 entropy.ubuntu.com
 livepatch.canonical.com
 api.snapcraft.io
+motd.ubuntu.com
