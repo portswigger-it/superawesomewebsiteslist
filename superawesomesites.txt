@@ -1,1 +1,3 @@
-portswigger.net
+*.portswigger.net/*
+portswigger.net/*
+plugins.jetbrains.com/*
