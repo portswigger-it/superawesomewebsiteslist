@@ -26,3 +26,4 @@ download.jetbrains.com
 download-cdn.jetbrains.com
 cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.amazonaws.com
 objects.githubusercontent.com/*
+keyserver.ubuntu.com
