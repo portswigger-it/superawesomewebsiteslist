@@ -12,3 +12,4 @@ plugins.jetbrains.com/*
 portswigger.net/*
 esm.ubuntu.com/*
 eu-west-2.ec2.archive.ubuntu.com/*
+security.ubuntu.com/*
