@@ -23,3 +23,4 @@ galaxy.ansible.com
 cloudfront.cdn.snapcraftcontent.com
 packages.microsoft.com
 download.jetbrains.com
+download-cdn.jetbrains.com
