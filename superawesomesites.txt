@@ -28,3 +28,5 @@ cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.ama
 objects.githubusercontent.com/*
 keyserver.ubuntu.com
 pkg.osquery.io
+jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
+pkg.osquerypackages.com
