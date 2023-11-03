@@ -22,3 +22,4 @@ galaxy.ansible.com
 *.vo.msecnd.net
 cloudfront.cdn.snapcraftcontent.com
 packages.microsoft.com
+download.jetbrains.com
