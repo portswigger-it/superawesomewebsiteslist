@@ -16,3 +16,4 @@ security.ubuntu.com
 ec2-instance-connect.eu-west-2.amazonaws.com
 entropy.ubuntu.com
 livepatch.canonical.com
+api.snapcraft.io
