@@ -19,3 +19,4 @@ portswigger.net
 security.ubuntu.com
 ssm.eu-west-1.amazonaws.com
 galaxy.ansible.com
+*.vo.msecnd.net
