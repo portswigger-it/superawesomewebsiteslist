@@ -1,7 +1,4 @@
-
-
 public.ecr.aws/portswigger/*
-jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
 jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
 ssm.eu-west-1.amazonaws.com
 ec2-instance-connect.eu-west-2.amazonaws.com
@@ -14,14 +11,13 @@ cdn.azul.com
 *.browserstack.com
 livepatch.canonical.com
 *.dev-exploit-server.com
-*.dev-exploit-server.com
 commondatastorage.googleapis.com
+releases.hashicorp.com
 download.jetbrains.com
 download-cdn.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
 packages.microsoft.com
-polling.oastify.com
 polling.oastify.com
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
@@ -47,9 +43,8 @@ github.com/goss-org/goss/releases/download/*
 bugs.nist.gov
 nvd.nist.gov
 pkg.osquery.io
-releases.hashicorp.com
-registry.terraform.io
 api.snapcraft.io
+registry.terraform.io
 enterp2019.atlassian.net
 polling.burpcollaborator.net
 d2ogrdw2mh0rsl.cloudfront.net
