@@ -58,3 +58,4 @@ portswigger-cdn.net
 web-security-academy.net
 *.golang.org
 inbots.zoom.us
+contracts.canonical.com
