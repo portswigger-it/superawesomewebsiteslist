@@ -9,6 +9,7 @@ chromiumdash.appspot.com
 omahaproxy.appspot.com
 cdn.azul.com
 *.browserstack.com
+contracts.canonical.com
 livepatch.canonical.com
 *.dev-exploit-server.com
 commondatastorage.googleapis.com
@@ -58,4 +59,4 @@ portswigger-cdn.net
 web-security-academy.net
 *.golang.org
 inbots.zoom.us
-contracts.canonical.com
+download.docker.com
