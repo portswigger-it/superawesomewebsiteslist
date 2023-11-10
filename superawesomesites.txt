@@ -12,6 +12,7 @@ cdn.azul.com
 contracts.canonical.com
 livepatch.canonical.com
 *.dev-exploit-server.com
+download.docker.com
 commondatastorage.googleapis.com
 releases.hashicorp.com
 download.jetbrains.com
@@ -59,4 +60,4 @@ portswigger-cdn.net
 web-security-academy.net
 *.golang.org
 inbots.zoom.us
-download.docker.com
+github.com/nvm-sh/
