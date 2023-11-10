@@ -41,6 +41,7 @@ code.visualstudio.com/*
 github.com/ansible-lockdown/*
 github.com/cilium/tetragon/
 github.com/goss-org/goss/releases/download/*
+github.com/nvm-sh/
 *.go.dev
 bugs.nist.gov
 nvd.nist.gov
@@ -60,4 +61,4 @@ portswigger-cdn.net
 web-security-academy.net
 *.golang.org
 inbots.zoom.us
-github.com/nvm-sh/
+nodejs.org/dist
