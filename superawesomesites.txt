@@ -60,5 +60,7 @@ portswigger-cdn.net
 *.portswigger.net
 web-security-academy.net
 *.golang.org
-inbots.zoom.us
 nodejs.org/dist
+inbots.zoom.us
+*.portswigger-dev.cloud
+*.portswigger.cloud
