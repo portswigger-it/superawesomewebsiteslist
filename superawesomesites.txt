@@ -45,6 +45,8 @@ github.com/ansible-lockdown/*
 github.com/cilium/tetragon/
 github.com/goss-org/goss/releases/download/*
 github.com/nvm-sh/
+github.com/sdkman/sdkman-cli/releases/download/*
+github.com/sdkman/sdkman-cli-native/releases/download/*
 *.go.dev
 bugs.nist.gov
 nvd.nist.gov
@@ -66,4 +68,3 @@ web-security-academy.net
 *.golang.org
 nodejs.org/dist
 inbots.zoom.us
-github.com/sdkman/sdkman-cli/releases/download/*
