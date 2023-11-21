@@ -20,8 +20,8 @@ releases.hashicorp.com
 download.jetbrains.com
 download-cdn.jetbrains.com
 plugins.jetbrains.com
-ginandjuice.shop
 package-search.services.jetbrains.com
+github.com/PortSwigger/*
 packages.microsoft.com
 polling.oastify.com
 ok11static.oktacdn.com
@@ -52,8 +52,6 @@ github.com/oracle/visualvm/releases/download/*
 github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
 *.go.dev
-*.portswigger-labs.net
-portswigger-labs.net
 bugs.nist.gov
 nvd.nist.gov
 pkg.osquery.io
@@ -69,10 +67,13 @@ h1-web-security-academy.net
 oauth-server.net
 portswigger.net
 portswigger-cdn.net
+portswigger-labs.net
+*.portswigger-labs.net
 *.portswigger.net
 web-security-academy.net
 *.golang.org
 nodejs.org/dist
 services.gradle.org/distributions/*
 repo.maven.apache.org/maven2/org/apache/maven/apache-maven/*
+ginandjuice.shop
 inbots.zoom.us
