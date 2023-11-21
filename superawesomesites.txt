@@ -49,6 +49,7 @@ github.com/nvm-sh/
 bugs.nist.gov
 nvd.nist.gov
 pkg.osquery.io
+api.sdkman.io
 api.snapcraft.io
 registry.terraform.io
 enterp2019.atlassian.net
@@ -65,4 +66,4 @@ web-security-academy.net
 *.golang.org
 nodejs.org/dist
 inbots.zoom.us
-api.sdkman.io
+github.com/sdkman/sdkman-cli/releases/download/*
