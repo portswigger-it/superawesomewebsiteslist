@@ -45,12 +45,13 @@ github.com/adoptium/*
 github.com/ansible-lockdown/*
 github.com/cilium/tetragon/
 github.com/goss-org/goss/releases/download/*
+github.com/gradle/gradle-distributions/releases/download/*
 github.com/nvm-sh/
 github.com/oracle/visualvm/releases/download/*
 github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
+repo.maven.apache.org/maven2/org/apache/maven/apache-maven/*
 *.go.dev
-github.com/gradle/gradle-distributions/releases/download/*
 bugs.nist.gov
 nvd.nist.gov
 pkg.osquery.io
