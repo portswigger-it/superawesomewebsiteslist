@@ -41,13 +41,13 @@ wtfismyip.com
 objects.githubusercontent.com/*
 dl.google.com/*
 code.visualstudio.com/*
+github.com/adoptium/*
 github.com/ansible-lockdown/*
 github.com/cilium/tetragon/
 github.com/goss-org/goss/releases/download/*
 github.com/nvm-sh/
 github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
-github.com/adoptium/temurin8-binaries/releases/download/*
 *.go.dev
 bugs.nist.gov
 nvd.nist.gov
