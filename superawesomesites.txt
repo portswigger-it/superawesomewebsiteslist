@@ -1,4 +1,6 @@
 public.ecr.aws/portswigger/*
+*.portswigger-dev.cloud
+*.portswigger.cloud
 jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
 ssm.eu-west-1.amazonaws.com
 ec2-instance-connect.eu-west-2.amazonaws.com
@@ -62,5 +64,4 @@ web-security-academy.net
 *.golang.org
 nodejs.org/dist
 inbots.zoom.us
-*.portswigger-dev.cloud
-*.portswigger.cloud
+wtfismyip.com
