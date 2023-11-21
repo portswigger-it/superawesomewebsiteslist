@@ -37,6 +37,7 @@ keyserver.ubuntu.com
 motd.ubuntu.com
 security.ubuntu.com
 vulnerable-website.com
+wtfismyip.com
 objects.githubusercontent.com/*
 dl.google.com/*
 code.visualstudio.com/*
@@ -64,4 +65,4 @@ web-security-academy.net
 *.golang.org
 nodejs.org/dist
 inbots.zoom.us
-wtfismyip.com
+api.sdkman.io
