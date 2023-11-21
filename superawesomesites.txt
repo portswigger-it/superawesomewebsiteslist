@@ -45,6 +45,7 @@ github.com/adoptium/*
 github.com/ansible-lockdown/*
 github.com/cilium/tetragon/
 github.com/goss-org/goss/releases/download/*
+github.com/oracle/visualvm/releases/download/*
 github.com/nvm-sh/
 github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
