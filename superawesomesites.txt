@@ -49,8 +49,8 @@ github.com/nvm-sh/
 github.com/oracle/visualvm/releases/download/*
 github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
-services.gradle.org/distributions/*
 *.go.dev
+github.com/gradle/gradle-distributions/releases/download/*
 bugs.nist.gov
 nvd.nist.gov
 pkg.osquery.io
@@ -70,4 +70,5 @@ portswigger-cdn.net
 web-security-academy.net
 *.golang.org
 nodejs.org/dist
+services.gradle.org/distributions/*
 inbots.zoom.us
