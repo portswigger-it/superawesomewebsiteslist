@@ -22,10 +22,9 @@ download-cdn.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
 packages.microsoft.com
-packages.jetbrains.team/maven/p/ij/intellij-redist/*
-oss.sonatype.org/service/local/staging/deploy/maven2/*
 polling.oastify.com
 ok11static.oktacdn.com
+github.githubassets.com
 portswigger-ltd-dev.onelogin.com
 pkg.osquerypackages.com
 *.portswigger.com
@@ -77,5 +76,7 @@ web-security-academy.net
 nodejs.org/dist
 services.gradle.org/distributions/*
 repo.maven.apache.org/maven2/org/apache/maven/apache-maven/*
+oss.sonatype.org/service/local/staging/deploy/maven2/*
 ginandjuice.shop
+packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
