@@ -15,6 +15,7 @@ contracts.canonical.com
 livepatch.canonical.com
 *.dev-exploit-server.com
 download.docker.com
+github.githubassets.com
 commondatastorage.googleapis.com
 releases.hashicorp.com
 download.jetbrains.com
@@ -24,7 +25,6 @@ package-search.services.jetbrains.com
 packages.microsoft.com
 polling.oastify.com
 ok11static.oktacdn.com
-github.githubassets.com
 portswigger-ltd-dev.onelogin.com
 pkg.osquerypackages.com
 *.portswigger.com
@@ -42,6 +42,7 @@ wtfismyip.com
 objects.githubusercontent.com/*
 dl.google.com/*
 code.visualstudio.com/*
+github.com/PortSwigger
 github.com/PortSwigger/*
 github.com/adoptium/*
 github.com/ansible-lockdown/*
