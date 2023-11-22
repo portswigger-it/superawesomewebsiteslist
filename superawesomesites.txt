@@ -21,8 +21,9 @@ download.jetbrains.com
 download-cdn.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
-github.com/PortSwigger/*
 packages.microsoft.com
+packages.jetbrains.team/maven/p/ij/intellij-redist/*
+oss.sonatype.org/service/local/staging/deploy/maven2/*
 polling.oastify.com
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
@@ -42,6 +43,7 @@ wtfismyip.com
 objects.githubusercontent.com/*
 dl.google.com/*
 code.visualstudio.com/*
+github.com/PortSwigger/*
 github.com/adoptium/*
 github.com/ansible-lockdown/*
 github.com/cilium/tetragon/
