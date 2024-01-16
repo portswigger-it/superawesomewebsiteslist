@@ -23,6 +23,7 @@ download-cdn.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
 packages.microsoft.com
+vscode.download.prss.microsoft.com
 polling.oastify.com
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
