@@ -1,3 +1,4 @@
+corretto.aws/downloads/resources/*
 public.ecr.aws/portswigger/*
 *.portswigger-dev.cloud
 *.portswigger.cloud
@@ -82,4 +83,5 @@ oss.sonatype.org/service/local/staging/deploy/maven2/*
 ginandjuice.shop
 packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
-corretto.aws/downloads/resources/*
+googlechromelabs.github.io
+edgedl.me.gvt1.com/edgedl/chrome
