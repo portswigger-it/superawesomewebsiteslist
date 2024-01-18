@@ -49,6 +49,7 @@ github.com/PortSwigger/*
 github.com/adoptium/*
 github.com/ansible-lockdown/*
 github.com/cilium/tetragon/
+edgedl.me.gvt1.com/edgedl/chrome
 github.com/goss-org/goss/releases/download/*
 github.com/gradle/gradle-distributions/releases/download/*
 github.com/nvm-sh/
@@ -58,6 +59,7 @@ github.com/sdkman/sdkman-cli/releases/download/*
 *.go.dev
 bugs.nist.gov
 nvd.nist.gov
+googlechromelabs.github.io
 pkg.osquery.io
 api.sdkman.io
 api.snapcraft.io
@@ -83,5 +85,4 @@ oss.sonatype.org/service/local/staging/deploy/maven2/*
 ginandjuice.shop
 packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
-googlechromelabs.github.io
-edgedl.me.gvt1.com/edgedl/chrome
+marketplace.visualstudio.com
