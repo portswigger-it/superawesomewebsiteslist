@@ -29,8 +29,8 @@ go.microsoft.com
 packages.microsoft.com
 vscode.download.prss.microsoft.com
 download.visualstudio.microsoft.com
-shed.dual-low.part-0024.t-0009.t-msedge.net
 polling.oastify.com
+aka.ms
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
 pkg.osquerypackages.com
@@ -87,6 +87,7 @@ portswigger-cdn.net
 portswigger-labs.net
 *.portswigger-labs.net
 *.portswigger.net
+shed.dual-low.part-0024.t-0009.t-msedge.net
 *.vscode-unpkg.net
 web-security-academy.net
 vscode.search.windows.net
