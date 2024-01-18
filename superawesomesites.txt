@@ -23,8 +23,10 @@ download.jetbrains.com
 download-cdn.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
+go.microsoft.com
 packages.microsoft.com
 vscode.download.prss.microsoft.com
+download.visualstudio.microsoft.com
 polling.oastify.com
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
@@ -39,6 +41,9 @@ esm.ubuntu.com
 keyserver.ubuntu.com
 motd.ubuntu.com
 security.ubuntu.com
+code.visualstudio.com
+update.code.visualstudio.com
+marketplace.visualstudio.com
 vulnerable-website.com
 wtfismyip.com
 objects.githubusercontent.com/*
@@ -57,6 +62,7 @@ github.com/oracle/visualvm/releases/download/*
 github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
 *.go.dev
+vscode.dev
 bugs.nist.gov
 nvd.nist.gov
 googlechromelabs.github.io
@@ -64,6 +70,8 @@ pkg.osquery.io
 api.sdkman.io
 api.snapcraft.io
 registry.terraform.io
+*.gallery.vsassets.io
+*.gallerycdn.vsassets.io
 enterp2019.atlassian.net
 polling.burpcollaborator.net
 d2ogrdw2mh0rsl.cloudfront.net
@@ -76,7 +84,9 @@ portswigger-cdn.net
 portswigger-labs.net
 *.portswigger-labs.net
 *.portswigger.net
+*.vscode-unpkg.net
 web-security-academy.net
+vscode.search.windows.net
 *.golang.org
 nodejs.org/dist
 services.gradle.org/distributions/*
@@ -85,4 +95,3 @@ oss.sonatype.org/service/local/staging/deploy/maven2/*
 ginandjuice.shop
 packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
-marketplace.visualstudio.com
