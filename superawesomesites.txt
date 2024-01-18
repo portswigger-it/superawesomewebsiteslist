@@ -30,7 +30,6 @@ packages.microsoft.com
 vscode.download.prss.microsoft.com
 download.visualstudio.microsoft.com
 polling.oastify.com
-aka.ms
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
 pkg.osquerypackages.com
@@ -62,6 +61,9 @@ github.com/goss-org/goss/releases/download/*
 github.com/gradle/gradle-distributions/releases/download/*
 github.com/nvm-sh/
 github.com/oracle/visualvm/releases/download/*
+github.com/portswigger-cloud
+github.com/portswigger-it
+github.com/portswigger
 github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
 *.go.dev
@@ -75,6 +77,7 @@ api.snapcraft.io
 registry.terraform.io
 *.gallery.vsassets.io
 *.gallerycdn.vsassets.io
+aka.ms
 enterp2019.atlassian.net
 polling.burpcollaborator.net
 d2ogrdw2mh0rsl.cloudfront.net
