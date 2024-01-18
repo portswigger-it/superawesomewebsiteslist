@@ -7,6 +7,7 @@ ssm.eu-west-1.amazonaws.com
 ec2-instance-connect.eu-west-2.amazonaws.com
 cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.amazonaws.com
 ssm.eu-west-2.amazonaws.com
+infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
 galaxy.ansible.com
 chromiumdash.appspot.com
 omahaproxy.appspot.com
