@@ -9,8 +9,8 @@ cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.ama
 ssm.eu-west-2.amazonaws.com
 infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
 galaxy.ansible.com
-download.java.net
 chromiumdash.appspot.com
+download.oracle.com/java/
 omahaproxy.appspot.com
 cdn.azul.com
 *.browserstack.com
@@ -86,6 +86,7 @@ polling.burpcollaborator.net
 d2ogrdw2mh0rsl.cloudfront.net
 *.exploit-server.net
 h1-web-security-academy.net
+download.java.net
 jdk.java.net
 *.vo.msecnd.net
 oauth-server.net
