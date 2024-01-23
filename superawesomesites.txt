@@ -7,8 +7,8 @@ ssm.eu-west-1.amazonaws.com
 ec2-instance-connect.eu-west-2.amazonaws.com
 cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.amazonaws.com
 ssm.eu-west-2.amazonaws.com
-github.com/petrstepanov/gnome-macos-remap/*
 infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
+jdk.java.net
 galaxy.ansible.com
 chromiumdash.appspot.com
 omahaproxy.appspot.com
@@ -63,6 +63,7 @@ github.com/goss-org/goss/releases/download/*
 github.com/gradle/gradle-distributions/releases/download/*
 github.com/nvm-sh/
 github.com/oracle/visualvm/releases/download/*
+github.com/petrstepanov/gnome-macos-remap/*
 github.com/portswigger-cloud
 github.com/portswigger-it
 github.com/portswigger
