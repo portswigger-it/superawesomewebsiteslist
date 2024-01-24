@@ -10,7 +10,6 @@ ssm.eu-west-2.amazonaws.com
 infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
 galaxy.ansible.com
 chromiumdash.appspot.com
-download.oracle.com/java/
 omahaproxy.appspot.com
 cdn.azul.com
 *.browserstack.com
@@ -24,6 +23,7 @@ releases.hashicorp.com
 account.jetbrains.com
 download.jetbrains.com
 download-cdn.jetbrains.com
+index-cdn.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
 go.microsoft.com
@@ -61,6 +61,7 @@ github.com/cilium/tetragon/
 edgedl.me.gvt1.com/edgedl/chrome
 github.com/goss-org/goss/releases/download/*
 github.com/gradle/gradle-distributions/releases/download/*
+download.oracle.com/java/
 github.com/nvm-sh/
 github.com/oracle/visualvm/releases/download/*
 github.com/petrstepanov/gnome-macos-remap/*
