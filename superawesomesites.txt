@@ -24,6 +24,7 @@ account.jetbrains.com
 download.jetbrains.com
 download-cdn.jetbrains.com
 index-cdn.jetbrains.com
+www.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
 go.microsoft.com
