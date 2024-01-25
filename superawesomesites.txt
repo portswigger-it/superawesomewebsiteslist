@@ -27,6 +27,7 @@ index-cdn.jetbrains.com
 www.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
+cloudconfig.jetbrains.com
 go.microsoft.com
 packages.microsoft.com
 vscode.download.prss.microsoft.com
