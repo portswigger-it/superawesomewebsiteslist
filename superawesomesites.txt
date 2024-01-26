@@ -54,6 +54,7 @@ wtfismyip.com
 objects.githubusercontent.com/*
 dl.google.com/*
 code.visualstudio.com/*
+accounts.google.com
 github.com/PortSwigger
 github.com/PortSwigger/*
 github.com/adoptium/*
