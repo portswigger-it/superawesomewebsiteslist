@@ -12,6 +12,7 @@ galaxy.ansible.com
 chromiumdash.appspot.com
 omahaproxy.appspot.com
 cdn.azul.com
+d1mg6achc83nsz.cloudfront.net
 *.browserstack.com
 contracts.canonical.com
 livepatch.canonical.com
