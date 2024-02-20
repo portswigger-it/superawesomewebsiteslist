@@ -13,6 +13,7 @@ chromiumdash.appspot.com
 omahaproxy.appspot.com
 cdn.azul.com
 d1mg6achc83nsz.cloudfront.net
+aws-support-uploader-use1.s3.amazonaws.com
 *.browserstack.com
 contracts.canonical.com
 livepatch.canonical.com
