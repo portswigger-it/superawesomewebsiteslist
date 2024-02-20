@@ -34,7 +34,7 @@ go.microsoft.com
 packages.microsoft.com
 vscode.download.prss.microsoft.com
 download.visualstudio.microsoft.com
-polling.oastify.com
+*.oastify.com
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
 pkg.osquerypackages.com
@@ -88,7 +88,7 @@ registry.terraform.io
 *.gallerycdn.vsassets.io
 aka.ms
 enterp2019.atlassian.net
-polling.burpcollaborator.net
+*.burpcollaborator.net
 d2ogrdw2mh0rsl.cloudfront.net
 *.exploit-server.net
 h1-web-security-academy.net
