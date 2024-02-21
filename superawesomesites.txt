@@ -10,14 +10,22 @@ ssm.eu-west-2.amazonaws.com
 infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
 galaxy.ansible.com
 chromiumdash.appspot.com
+iam.amazonaws.com
+ocsp.r2m01.amazontrust.com
 omahaproxy.appspot.com
 cdn.azul.com
+prod.detectportal.prod.cloudops.mozgcp.net
+app.wiz.io
+d1mg6achc83nsz.cloudfront.net
+aws-support-uploader-use1.s3.amazonaws.com
 *.browserstack.com
 contracts.canonical.com
+downloads.wiz.io
 livepatch.canonical.com
 *.dev-exploit-server.com
 download.docker.com
 github.githubassets.com
+dpkg.wiz.io
 commondatastorage.googleapis.com
 releases.hashicorp.com
 account.jetbrains.com
@@ -32,7 +40,7 @@ go.microsoft.com
 packages.microsoft.com
 vscode.download.prss.microsoft.com
 download.visualstudio.microsoft.com
-polling.oastify.com
+*.oastify.com
 ok11static.oktacdn.com
 portswigger-ltd-dev.onelogin.com
 pkg.osquerypackages.com
@@ -68,6 +76,7 @@ download.oracle.com/java/
 github.com/nvm-sh/
 github.com/oracle/visualvm/releases/download/*
 github.com/petrstepanov/gnome-macos-remap/*
+github.com/portswigger-apps
 github.com/portswigger-cloud
 github.com/portswigger-it
 github.com/portswigger
@@ -86,7 +95,7 @@ registry.terraform.io
 *.gallerycdn.vsassets.io
 aka.ms
 enterp2019.atlassian.net
-polling.burpcollaborator.net
+*.burpcollaborator.net
 d2ogrdw2mh0rsl.cloudfront.net
 *.exploit-server.net
 h1-web-security-academy.net
@@ -112,3 +121,4 @@ ginandjuice.shop
 packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
 api.openai.com
+vulnerability-search.europe-north1-gke.intellij.net
