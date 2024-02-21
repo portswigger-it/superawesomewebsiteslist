@@ -16,6 +16,7 @@ d1mg6achc83nsz.cloudfront.net
 aws-support-uploader-use1.s3.amazonaws.com
 *.browserstack.com
 contracts.canonical.com
+downloads.wiz.io
 livepatch.canonical.com
 *.dev-exploit-server.com
 download.docker.com
