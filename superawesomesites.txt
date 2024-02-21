@@ -21,6 +21,7 @@ livepatch.canonical.com
 *.dev-exploit-server.com
 download.docker.com
 github.githubassets.com
+dpkg.wiz.io
 commondatastorage.googleapis.com
 releases.hashicorp.com
 account.jetbrains.com
