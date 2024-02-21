@@ -76,6 +76,7 @@ download.oracle.com/java/
 github.com/nvm-sh/
 github.com/oracle/visualvm/releases/download/*
 github.com/petrstepanov/gnome-macos-remap/*
+github.com/portswigger-apps
 github.com/portswigger-cloud
 github.com/portswigger-it
 github.com/portswigger
