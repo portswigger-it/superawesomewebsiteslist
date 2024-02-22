@@ -12,6 +12,7 @@ galaxy.ansible.com
 chromiumdash.appspot.com
 iam.amazonaws.com
 ocsp.r2m01.amazontrust.com
+*.app.wiz.io
 omahaproxy.appspot.com
 cdn.azul.com
 prod.detectportal.prod.cloudops.mozgcp.net
