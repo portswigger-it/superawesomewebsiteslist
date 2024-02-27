@@ -16,6 +16,7 @@ ocsp.r2m01.amazontrust.com
 agent.eu14.app.wiz.io
 omahaproxy.appspot.com
 cdn.azul.com
+hub.jetbrains.com
 prod.detectportal.prod.cloudops.mozgcp.net
 d1mg6achc83nsz.cloudfront.net
 aws-support-uploader-use1.s3.amazonaws.com
