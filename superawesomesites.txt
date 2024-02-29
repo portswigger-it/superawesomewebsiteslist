@@ -23,6 +23,7 @@ aws-support-uploader-use1.s3.amazonaws.com
 *.browserstack.com
 contracts.canonical.com
 livepatch.canonical.com
+downloads.marketplace.jetbrains.com
 *.dev-exploit-server.com
 download.docker.com
 github.githubassets.com
