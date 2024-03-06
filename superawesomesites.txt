@@ -5,6 +5,7 @@ public.ecr.aws/portswigger/*
 jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
 ssm.eu-west-1.amazonaws.com
 ec2-instance-connect.eu-west-2.amazonaws.com
+ec2.eu-west-2.amazonaws.com
 cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.amazonaws.com
 ssm.eu-west-2.amazonaws.com
 iam.amazonaws.com
