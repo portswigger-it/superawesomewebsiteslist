@@ -58,6 +58,7 @@ code.visualstudio.com
 update.code.visualstudio.com
 vagrantcloud.com
 app.vagrantup.com
+archivist.vagrantup.com
 s3-eu-west-1.amazonaws.com/ot-vagrantcloud/*
 marketplace.visualstudio.com
 vulnerable-website.com
