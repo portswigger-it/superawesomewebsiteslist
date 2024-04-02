@@ -56,6 +56,7 @@ motd.ubuntu.com
 security.ubuntu.com
 code.visualstudio.com
 update.code.visualstudio.com
+vagrantcloud.com
 marketplace.visualstudio.com
 vulnerable-website.com
 wtfismyip.com
