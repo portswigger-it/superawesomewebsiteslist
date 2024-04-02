@@ -57,6 +57,7 @@ security.ubuntu.com
 code.visualstudio.com
 update.code.visualstudio.com
 vagrantcloud.com
+app.vagrantup.com
 marketplace.visualstudio.com
 vulnerable-website.com
 wtfismyip.com
