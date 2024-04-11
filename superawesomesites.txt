@@ -23,6 +23,7 @@ livepatch.canonical.com
 download.docker.com
 github.githubassets.com
 accounts.google.com
+login.microsoftonline.com
 commondatastorage.googleapis.com
 releases.hashicorp.com
 account.jetbrains.com
