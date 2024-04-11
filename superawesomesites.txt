@@ -14,6 +14,7 @@ aws-support-uploader-use1.s3.amazonaws.com
 ocsp.r2m01.amazontrust.com
 aadcdn.msauth.net
 aadcdn.msftauth.net
+github.com/sso_login
 login.live.com
 github.com/auth/*
 galaxy.ansible.com
