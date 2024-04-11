@@ -129,3 +129,8 @@ oss.sonatype.org/service/local/staging/deploy/maven2/*
 ginandjuice.shop
 packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
+github.com/login/*
+api.github.com/user
+api.github.com/coilot_internal/*
+origin-tracker.githubusercontent.com
+*.githubcopilot.com
