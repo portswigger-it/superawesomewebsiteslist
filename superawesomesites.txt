@@ -130,6 +130,7 @@ ginandjuice.shop
 packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
 github.com/login/*
+github.com/session
 api.github.com/user
 api.github.com/coilot_internal/*
 origin-tracker.githubusercontent.com
