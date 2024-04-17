@@ -142,3 +142,4 @@ api.github.com/user
 api.github.com/coilot_internal/*
 origin-tracker.githubusercontent.com
 *.githubcopilot.com
+todo.theradfords.org
