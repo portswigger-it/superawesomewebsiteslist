@@ -16,6 +16,8 @@ aadcdn.msauth.net
 aadcdn.msftauth.net
 github.com/sso_login
 login.live.com
+copilot-proxy.githubusercontent.com
+collector.github.com
 github.com/auth/*
 galaxy.ansible.com
 chromiumdash.appspot.com
