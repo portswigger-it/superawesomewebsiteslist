@@ -12,6 +12,7 @@ iam.amazonaws.com
 infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
 aws-support-uploader-use1.s3.amazonaws.com
 ocsp.r2m01.amazontrust.com
+cdn.azul.com
 aadcdn.msauth.net
 aadcdn.msftauth.net
 github.com/sso_login
