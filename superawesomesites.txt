@@ -11,6 +11,7 @@ ssm.eu-west-2.amazonaws.com
 iam.amazonaws.com
 infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
 aws-support-uploader-use1.s3.amazonaws.com
+*.staging.portswigger.com
 ocsp.r2m01.amazontrust.com
 cdn.azul.com
 aadcdn.msauth.net
