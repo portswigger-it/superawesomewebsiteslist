@@ -2,6 +2,8 @@ corretto.aws/downloads/resources/*
 public.ecr.aws/portswigger/*
 *.portswigger-dev.cloud
 *.portswigger.cloud
+*.platform-dev.portswigger.io
+*.platform-prod.portswigger.io
 jetbrains-ppa.s3-website.eu-central-1.amazonaws.com
 ssm.eu-west-1.amazonaws.com
 ec2-instance-connect.eu-west-2.amazonaws.com
