@@ -47,6 +47,7 @@ downloads.marketplace.jetbrains.com
 plugins.jetbrains.com
 package-search.services.jetbrains.com
 www.jetbrains.com
+resources.jetbrains.com
 go.microsoft.com
 packages.microsoft.com
 vscode.download.prss.microsoft.com
@@ -148,3 +149,7 @@ api.github.com
 origin-tracker.githubusercontent.com
 *.githubcopilot.com
 todo.theradfords.org
+copilot-telemetry.githubusercontent.com
+avatars.githubusercontent.com
+user-images.githubusercontent.com
+default.exp-tas.com
