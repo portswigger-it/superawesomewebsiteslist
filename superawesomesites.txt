@@ -9,6 +9,7 @@ ec2-instance-connect.eu-west-2.amazonaws.com
 cdk-workspaces-ansiblere-ansibles3bucketbucket1b9-1b23tqgz04eee.s3.eu-west-2.amazonaws.com
 ssm.eu-west-2.amazonaws.com
 iam.amazonaws.com
+ghcr.io/aquasecurity/*
 vagrantcloud-files-production.s3-accelerate.amazonaws.com
 infra-s3-pipeline-s3bucket-24goxmqa3fsg.s3-website-eu-west-1.amazonaws.com
 aws-support-uploader-use1.s3.amazonaws.com
