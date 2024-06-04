@@ -157,4 +157,4 @@ packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
 js.stripe.com/*
 testphp.vulnweb.com
-storage.googleapis.com/chrome-for-testing-public/*
+storage.googleapis.com/*
