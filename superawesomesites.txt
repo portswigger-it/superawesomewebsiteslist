@@ -107,6 +107,7 @@ github.com/sdkman/sdkman-cli-native/releases/download/*
 github.com/sdkman/sdkman-cli/releases/download/*
 github.com/session
 github.com/sso_login
+github.com/swagger-api/
 *.go.dev
 vscode.dev
 bugs.nist.gov
