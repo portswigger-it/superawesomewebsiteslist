@@ -156,6 +156,11 @@ oss.sonatype.org/service/local/staging/deploy/maven2/*
 ginandjuice.shop
 packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
+api.stripe.com/*
+m.stripe.com/*
 js.stripe.com/*
+r.stripe.com/*
+m.stripe.network/*
+b.stripecdn.com/*
 testphp.vulnweb.com
 storage.googleapis.com/*
