@@ -164,3 +164,5 @@ m.stripe.network/*
 b.stripecdn.com/*
 testphp.vulnweb.com
 storage.googleapis.com/*
+www.paypal.com/*
+www.sandbox.paypal.com/*
