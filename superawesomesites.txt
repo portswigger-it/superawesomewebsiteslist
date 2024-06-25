@@ -166,3 +166,7 @@ testphp.vulnweb.com
 storage.googleapis.com/*
 www.paypal.com/*
 www.sandbox.paypal.com/*
+dl.k8s.io/release/*
+pkgs.k8s.io
+amazonlinux.eu-west-1.amazonaws.com/2/*
+github.com/derailed/k9s/releases/download/*
