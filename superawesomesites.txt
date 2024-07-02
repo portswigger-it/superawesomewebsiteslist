@@ -172,3 +172,4 @@ pkgs.k8s.io
 amazonlinux.eu-west-1.amazonaws.com/2/*
 github.com/derailed/k9s/releases/download/*
 portswigger-cloud.github.io
+ec2-35-177-234-6.eu-west-2.compute.amazonaws.com
