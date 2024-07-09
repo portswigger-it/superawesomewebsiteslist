@@ -155,3 +155,6 @@ packages.jetbrains.team/maven/p/ij/intellij-redist/*
 inbots.zoom.us
 js.stripe.com/*
 dl-ssl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+dev.snoopervisor.net
+staging.snoopervisor.net
+snoopervisor.net
