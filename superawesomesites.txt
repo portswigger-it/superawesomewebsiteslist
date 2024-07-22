@@ -180,3 +180,9 @@ dl-ssl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
 dev.snoopervisor.net
 staging.snoopervisor.net
 snoopervisor.net
+dataaccess.com/webservicesserver/numberconversion.wso?WSDL
+www.w3schools.com/xml/tempconvert.asmx?WSDL
+webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
+www.webservicex.net/globalweather.asmx?WSDL
+www.dneonline.com/calculator.asmx?WSDL
+webservices.daehosting.com/services/isbnservice.wso?WSDL
