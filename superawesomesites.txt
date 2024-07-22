@@ -176,3 +176,7 @@ auth.qa.brokencrystals.com
 ec2-52-56-184-104.eu-west-2.compute.amazonaws.com
 github.com/NeuraLegion/*
 ec2-35-177-234-6.eu-west-2.compute.amazonaws.com
+dl-ssl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+dev.snoopervisor.net
+staging.snoopervisor.net
+snoopervisor.net
