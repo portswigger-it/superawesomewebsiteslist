@@ -186,6 +186,6 @@ webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso?WSDL
 www.webservicex.net/globalweather.asmx?WSDL
 www.dneonline.com/calculator.asmx?WSDL
 webservices.daehosting.com/services/isbnservice.wso?WSDL
-api.ecr.eu-west-1.amazonaws.com
+*.ecr.eu-west-1.amazonaws.com
 cloudformation.eu-west-1.amazonaws.com
 ecs.eu-west-1.amazonaws.com
