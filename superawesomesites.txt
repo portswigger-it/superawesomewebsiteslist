@@ -190,3 +190,4 @@ webservices.daehosting.com/services/isbnservice.wso?WSDL
 cloudformation.eu-west-1.amazonaws.com
 ecs.eu-west-1.amazonaws.com
 bbc.com
+*.vertexsmb.com
