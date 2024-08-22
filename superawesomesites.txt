@@ -191,3 +191,4 @@ cloudformation.eu-west-1.amazonaws.com
 ecs.eu-west-1.amazonaws.com
 bbc.com
 *.vertexsmb.com
+s3-r-w.eu-west-1.amazonaws.com
