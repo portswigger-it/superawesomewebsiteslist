@@ -192,3 +192,4 @@ ecs.eu-west-1.amazonaws.com
 bbc.com
 *.vertexsmb.com
 s3-r-w.eu-west-1.amazonaws.com
+prod-eu-west-1-starport-layer-bucket.s3.eu-west-1.amazonaws.com
