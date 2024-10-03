@@ -18,6 +18,7 @@ chromiumdash.appspot.com
 omahaproxy.appspot.com
 cdn.azul.com
 cdn.azul.com
+*.blob.core.windows.net
 *.browserstack.com
 ghcr.io
 pkg-containers.githubusercontent.com
