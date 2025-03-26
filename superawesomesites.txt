@@ -135,6 +135,7 @@ h1-web-security-academy.net
 vulnerability-search.europe-north1-gke.intellij.net
 download.java.net
 jdk.java.net
+*.fls.jetbrains.com
 prod.detectportal.prod.cloudops.mozgcp.net
 aadcdn.msauth.net
 *.vo.msecnd.net
